@@ -1,3 +1,5 @@
+### 🧮 Math Adventures — Adaptive Learning Prototype
+
 **Math Adventures** is a minimal AI-powered adaptive learning prototype designed to help children (ages 5–10) practise basic mathematics through personalised difficulty adjustment and meaningful feedback.
 
 The system dynamically adapts problem difficulty based on learner performance, tracks accuracy and response time, and provides end-of-session insights to guide further learning.
